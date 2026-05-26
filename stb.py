@@ -188,7 +188,7 @@ class Enemy(pg.sprite.Sprite):
             self.kill()
 
 # -----------------------------
-# Background scroll
+# Background scroll 
 # -----------------------------
 bg = pg.Surface((WIDTH, HEIGHT))
 bg.fill((10, 10, 30))
